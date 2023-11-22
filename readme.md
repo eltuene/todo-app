@@ -54,7 +54,7 @@ To run this app, you will need to have the following software installed on your 
    - Scan the QR code displayed in the Expo Developer Tools (or the console) with your device's camera.
    - The app will be installed and automatically opened on your device.
   
-7. Start the app:
+7. Test the app:
 
    ```shell
    npm test
